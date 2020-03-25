@@ -1,7 +1,9 @@
 # Tracking Covid Testing Data
-Data is being being tracked using [The Covid Tracking Project](https://covidtracking.com/)
+Data is being tracked using [The Covid Tracking Project](https://covidtracking.com/)
 
-Currently, the data is being collected via webscraping. An [API](https://covidtracking.com/api/) has been added to the project and will be integrated into this repo soon.
+The API documentation can be found [here](https://covidtracking.com/api/)
+
+An old version of this project collected data via webscraping. The code for that version of the project can be found at the bottom of the Coronavirus_data_tracker notebook.
 
 # Visualizations:
 
