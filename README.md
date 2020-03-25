@@ -1,7 +1,7 @@
 # Tracking Covid Testing Data
 Data is being tracked using [The Covid Tracking Project](https://covidtracking.com/)
 
->Visualizations are updated daily.
+**Visualizations are updated daily.**
 
 The API documentation can be found [here](https://covidtracking.com/api/)
 
