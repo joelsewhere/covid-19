@@ -9,7 +9,7 @@ The API documentation can be found [here](https://covidtracking.com/api/)
 
 ### [Click here for Individual States](https://github.com/joelsewhere/covid-19/tree/master/states)
 
-# US
+# US –– Visualizations
 ![](images/positive_tests.png)
 ![](images/deaths.png)
 ![](images/positive_case_growth.png)
