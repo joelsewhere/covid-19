@@ -7,6 +7,8 @@ The API documentation can be found [here](https://covidtracking.com/api/)
 
 >An old version of this project collected data via webscraping. The code for that version of the project can be found at the bottom of the Coronavirus_data_tracker notebook.
 
+### ![Click here for Individual States](https://github.com/joelsewhere/covid-19/tree/master/states)
+
 # US
 ![](images/positive_tests.png)
 ![](images/deaths.png)
@@ -15,5 +17,3 @@ The API documentation can be found [here](https://covidtracking.com/api/)
 ![](images/positive_cases_map.png)
 ![](images/positive_test_rate.png)
 ![](images/mortality_rate.png)
-
-# ![Individual States](https://github.com/joelsewhere/covid-19/tree/master/states)
