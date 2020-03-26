@@ -1,222 +1,222 @@
 ## Alaska
-![AK](images/Alaska_cases.png)
+![Alaska](images/AK_cases.png)
 
 
 ## Alabama
-![AL](images/Alabama_cases.png)
+![Alabama](images/AL_cases.png)
 
 
 ## Arkansas
-![AR](images/Arkansas_cases.png)
+![Arkansas](images/AR_cases.png)
 
 
 ## American Samoa
-![AS](images/American Samoa_cases.png)
+![American Samoa](images/AS_cases.png)
 
 
 ## Arizona
-![AZ](images/Arizona_cases.png)
+![Arizona](images/AZ_cases.png)
 
 
 ## California
-![CA](images/California_cases.png)
+![California](images/CA_cases.png)
 
 
 ## Colorado
-![CO](images/Colorado_cases.png)
+![Colorado](images/CO_cases.png)
 
 
 ## Connecticut
-![CT](images/Connecticut_cases.png)
+![Connecticut](images/CT_cases.png)
 
 
 ## District of Columbia
-![DC](images/District of Columbia_cases.png)
+![District of Columbia](images/DC_cases.png)
 
 
 ## Delaware
-![DE](images/Delaware_cases.png)
+![Delaware](images/DE_cases.png)
 
 
 ## Florida
-![FL](images/Florida_cases.png)
+![Florida](images/FL_cases.png)
 
 
 ## Georgia
-![GA](images/Georgia_cases.png)
+![Georgia](images/GA_cases.png)
 
 
 ## Guam
-![GU](images/Guam_cases.png)
+![Guam](images/GU_cases.png)
 
 
 ## Hawaii
-![HI](images/Hawaii_cases.png)
+![Hawaii](images/HI_cases.png)
 
 
 ## Iowa
-![IA](images/Iowa_cases.png)
+![Iowa](images/IA_cases.png)
 
 
 ## Idaho
-![ID](images/Idaho_cases.png)
+![Idaho](images/ID_cases.png)
 
 
 ## Illinois
-![IL](images/Illinois_cases.png)
+![Illinois](images/IL_cases.png)
 
 
 ## Indiana
-![IN](images/Indiana_cases.png)
+![Indiana](images/IN_cases.png)
 
 
 ## Kansas
-![KS](images/Kansas_cases.png)
+![Kansas](images/KS_cases.png)
 
 
 ## Kentucky
-![KY](images/Kentucky_cases.png)
+![Kentucky](images/KY_cases.png)
 
 
 ## Louisiana
-![LA](images/Louisiana_cases.png)
+![Louisiana](images/LA_cases.png)
 
 
 ## Massachusetts
-![MA](images/Massachusetts_cases.png)
+![Massachusetts](images/MA_cases.png)
 
 
 ## Maryland
-![MD](images/Maryland_cases.png)
+![Maryland](images/MD_cases.png)
 
 
 ## Maine
-![ME](images/Maine_cases.png)
+![Maine](images/ME_cases.png)
 
 
 ## Michigan
-![MI](images/Michigan_cases.png)
+![Michigan](images/MI_cases.png)
 
 
 ## Minnesota
-![MN](images/Minnesota_cases.png)
+![Minnesota](images/MN_cases.png)
 
 
 ## Missouri
-![MO](images/Missouri_cases.png)
+![Missouri](images/MO_cases.png)
 
 
 ## Northern Mariana Islands
-![MP](images/Northern Mariana Islands_cases.png)
+![Northern Mariana Islands](images/MP_cases.png)
 
 
 ## Mississippi
-![MS](images/Mississippi_cases.png)
+![Mississippi](images/MS_cases.png)
 
 
 ## Montana
-![MT](images/Montana_cases.png)
+![Montana](images/MT_cases.png)
 
 
 ## North Carolina
-![NC](images/North Carolina_cases.png)
+![North Carolina](images/NC_cases.png)
 
 
 ## North Dakota
-![ND](images/North Dakota_cases.png)
+![North Dakota](images/ND_cases.png)
 
 
 ## Nebraska
-![NE](images/Nebraska_cases.png)
+![Nebraska](images/NE_cases.png)
 
 
 ## New Hampshire
-![NH](images/New Hampshire_cases.png)
+![New Hampshire](images/NH_cases.png)
 
 
 ## New Jersey
-![NJ](images/New Jersey_cases.png)
+![New Jersey](images/NJ_cases.png)
 
 
 ## New Mexico
-![NM](images/New Mexico_cases.png)
+![New Mexico](images/NM_cases.png)
 
 
 ## Nevada
-![NV](images/Nevada_cases.png)
+![Nevada](images/NV_cases.png)
 
 
 ## New York
-![NY](images/New York_cases.png)
+![New York](images/NY_cases.png)
 
 
 ## Ohio
-![OH](images/Ohio_cases.png)
+![Ohio](images/OH_cases.png)
 
 
 ## Oklahoma
-![OK](images/Oklahoma_cases.png)
+![Oklahoma](images/OK_cases.png)
 
 
 ## Oregon
-![OR](images/Oregon_cases.png)
+![Oregon](images/OR_cases.png)
 
 
 ## Pennsylvania
-![PA](images/Pennsylvania_cases.png)
+![Pennsylvania](images/PA_cases.png)
 
 
 ## Puerto Rico
-![PR](images/Puerto Rico_cases.png)
+![Puerto Rico](images/PR_cases.png)
 
 
 ## Rhode Island
-![RI](images/Rhode Island_cases.png)
+![Rhode Island](images/RI_cases.png)
 
 
 ## South Carolina
-![SC](images/South Carolina_cases.png)
+![South Carolina](images/SC_cases.png)
 
 
 ## South Dakota
-![SD](images/South Dakota_cases.png)
+![South Dakota](images/SD_cases.png)
 
 
 ## Tennessee
-![TN](images/Tennessee_cases.png)
+![Tennessee](images/TN_cases.png)
 
 
 ## Texas
-![TX](images/Texas_cases.png)
+![Texas](images/TX_cases.png)
 
 
 ## Utah
-![UT](images/Utah_cases.png)
+![Utah](images/UT_cases.png)
 
 
 ## Virginia
-![VA](images/Virginia_cases.png)
+![Virginia](images/VA_cases.png)
 
 
 ## Virgin Islands
-![VI](images/Virgin Islands_cases.png)
+![Virgin Islands](images/VI_cases.png)
 
 
 ## Vermont
-![VT](images/Vermont_cases.png)
+![Vermont](images/VT_cases.png)
 
 
 ## Washington
-![WA](images/Washington_cases.png)
+![Washington](images/WA_cases.png)
 
 
 ## Wisconsin
-![WI](images/Wisconsin_cases.png)
+![Wisconsin](images/WI_cases.png)
 
 
 ## West Virginia
-![WV](images/West Virginia_cases.png)
+![West Virginia](images/WV_cases.png)
 
 
 ## Wyoming
-![WY](images/Wyoming_cases.png)
+![Wyoming](images/WY_cases.png)
