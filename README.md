@@ -16,4 +16,4 @@ The API documentation can be found [here](https://covidtracking.com/api/)
 ![](images/positive_test_rate.png)
 ![](images/mortality_rate.png)
 
-# ![Individual States]()
+# ![Individual States](https://github.com/joelsewhere/covid-19/tree/master/states)
