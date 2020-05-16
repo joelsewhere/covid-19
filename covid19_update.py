@@ -21,6 +21,8 @@ def add_and_commit(repo, commit_msg):
 
 warnings.filterwarnings('ignore')
 
+print('Requesting data')
+
 # Query API
 states = requests.get('https://covidtracking.com/api/states/daily').json()
 states = pd.DataFrame(states)
@@ -35,6 +37,8 @@ us.date = pd.to_datetime(us.date, format='%Y%m%d')
 states.set_index('date', inplace=True)
 us.set_index('date', inplace=True)
 today = states.loc[states.index.max()]
+
+print('Updating graphs')
 
 ##################################### GRAPHING ###########################################
 
@@ -155,10 +159,10 @@ state_data = states.to_dict()
 data = {'state': state_data,
         'us': national_data}
 
-with open('coronavirus.json', mode='w', encoding='utf-8') as f:
+with open('data/coronavirus.json', mode='w', encoding='utf-8') as f:
     json.dump(data, f)
 
-with open('coronavirus.json') as f:
+with open('data/coronavirus.json') as f:
     data = json.load(f)
     state = data['state']
 
@@ -250,4 +254,3 @@ add_and_commit(repo, commit_message)
 print("pushing to remote master branch")
 
 repo.git.push("origin", "master")
-
