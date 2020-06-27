@@ -243,16 +243,11 @@ today = datetime.today()
 COMMIT_MESSAGE = "{}-{}-{}".format(today.month, today.day, today.year)
 
 
-def git_push():
-    try:
-        repo = Repo(os.getcwd())
-        repo.git.add(update=True)
-        repo.index.commit(COMMIT_MESSAGE)
-        origin = repo.remote(name='origin')
-        origin.push()
-    except:
-        print('Some error occured while pushing the code')
-
+repo = Repo(os.getcwd())
+repo.git.add(update=True)
+repo.index.commit(COMMIT_MESSAGE)
+origin = repo.remote(name='origin')
+origin.push()
 
 git_push()
 
