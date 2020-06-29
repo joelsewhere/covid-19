@@ -7,7 +7,7 @@ import plotly.graph_objects as go
 import matplotlib.pyplot as plt
 import matplotlib
 from datetime import datetime
-from git import Repo
+from git import Repo, Git, GitCommandError
 import os
 
 
@@ -239,16 +239,18 @@ for state in states.state.unique():
     plt.grid()
     fig.savefig('states/images/{}_cases.png'.format(state))
 
-today = datetime.today()
-COMMIT_MESSAGE = "{}-{}-{}".format(today.month, today.day, today.year)
-
-
+git_ssh_identity_file = os.path.expanduser('~/.ssh/id_rsa')
+git_ssh_cmd = 'ssh -i %s' % git_ssh_identity_file
+Git().custom_environment(GIT_SSH_COMMAND=git_ssh_cmd)
 repo = Repo(os.getcwd())
-repo.git.add(update=True)
-repo.index.commit(COMMIT_MESSAGE)
-origin = repo.remote(name='origin')
-origin.push()
 
-git_push()
+today = datetime.today()
+
+
+commit_message = "{}-{}-{}".format(today.month, today.day, today.year)
+
+add_and_commit(repo, commit_message)
 
 print("pushing to remote master branch")
+
+repo.git.push("origin", "master")
